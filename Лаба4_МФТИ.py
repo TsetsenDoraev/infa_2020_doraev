@@ -11,4 +11,5 @@
 #
 # git config user.name "Doraev Tsetsen"
 # git config user.email ivanov.doraevtsetsen@gmail.com
-print('Hello world epta!')
+print('Hello world!')
+print('123')
